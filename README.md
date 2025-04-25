@@ -29,9 +29,9 @@ Welcome to my collection of technical articles covering various aspects of softw
 
 - [📖 About](#-about)
 - [🤖 AI/ML & Data Science](#-aiml--data-science)
-- [🐍 Python Programming](#-python-programming)
 - [☸️ Kubernetes & Cloud Native](#️-kubernetes--cloud-native)
 - [🔄 CI/CD & DevOps](#-cicd--devops)
+- [🐍 Python Programming](#-python-programming)
 - [☁️ Cloud Computing](#️-cloud-computing)
 - [🏗️ Software Architecture & Design](#️-software-architecture--design)
 - [💻 Development & Tools](#-development--tools)
@@ -54,15 +54,6 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [PGVector: A Vector Database](https://medium.com/pgvector-a-vector-database-718d4b39011c)
 - [AI Model Formats & Optimizations for Efficient Inference](https://medium.com/ai-model-formats-optimizations-for-efficient-inference-5ff9e6f1bae4)
 - [PyTorch vs. TensorFlow](https://medium.com/pytorch-vs-tensorflow-cc170609d1a9)
-
-## 🐍 Python Programming
-
-- [Understand Dunder Methods in Python](https://medium.com/understand-dunder-methods-in-python-7bb075145451)
-- [Mastering **args and **kwargs in Python](https://medium.com/mastering-args-and-kwargs-in-python-5ba8d58a8862)
-- [Mastering Python with Good Habits](https://medium.com/mastering-python-with-good-habits-ee0abecebbe2)
-- [Understanding Python Decorators](https://medium.com/understanding-python-decorators-08c88731ffed)
-- [Understanding Python Generators](https://medium.com/understanding-python-generators-51cbe3fcbbf4)
-- [Automate RSS Feed Delivery to Telegram Channels Using Python](https://medium.com/automate-rss-feed-delivery-to-telegram-channels-using-python-d4e4a3175ed8)
 
 ## ☸️ Kubernetes & Cloud Native
 
@@ -100,6 +91,7 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [DevOps and System Design](https://medium.com/devops-and-system-design-55a3bf69f64f)
 - [Tools Version Management with TENV](https://medium.com/tools-version-management-with-tenv-3ec60bc412b0)
 - [Phases in ArgoCD](https://medium.com/phases-in-argocd-9399722edc3d)
+- [Canary Deployments for Kong Enterprise on EKS Using Jenkins CI/CD](https://medium.com/@minimaldevops/canary-deployments-for-kong-enterprise-on-eks-using-jenkins-ci-cd-bd605c0370ec)
 
 ## 🐍 Python Programming
 
@@ -114,27 +106,6 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [Container Image Size Reducing](https://medium.com/container-image-size-reducing-75822c531e61)
 - [Understanding Data Structures: A Practical Basic Guide](https://medium.com/understanding-data-structures-a-practical-basic-guide-for-non-developers-9771e3f4f62d)
 - [Sustainable Coding](https://medium.com/sustainable-coding-df2909715f1b)
-
-## 📊 Data Engineering & Databases
-
-### Database Management
-- [Automating PostgreSQL Database Migrations](https://medium.com/automating-postgresql-database-migrations-cdb1ebacc152)
-- [Optimizing PostgreSQL Performance: Vacuuming and Related Concepts](https://medium.com/optimizing-postgresql-performance-vacuuming-and-related-concepts-f4aa0fdca836)
-- [Materialized Views in PostgreSQL](https://medium.com/materialized-views-in-postgresql-a90eb565c6f8)
-- [SQL Functions You Must Know!](https://medium.com/become-sql-hero-functions-every-data-engineer-should-know-4502dbeb08d7)
-
-### Data Engineering
-- [Understanding DAG in Airflow](https://medium.com/understanding-dag-in-airflow-07b4cf8273ed)
-- [The Evolution of Big Data Processing](https://medium.com/the-evolution-of-big-data-processing-from-hadoop-to-spark-to-flink-fb2c8616da63)
-- [Apache Airflow Vs Kubeflow](https://medium.com/apache-airflow-vs-kubeflow-8ad1db986e76)
-
-## 🌐 Web Development
-
-### Web Frameworks
-- [PyQt vs. Tkinter: Choosing the Right Python GUI Framework](https://medium.com/pyqt-vs-tkinter-choosing-the-right-python-gui-framework-690c69d86e7d)
-- [A Guide to Python Flask and Streamlit](https://medium.com/a-guide-to-python-flask-and-streamlit-8302f0ee76c6)
-- [Django and FastAPI in Python](https://medium.com/django-and-fastapi-in-python-5b4c8c637f46)
-- [Popular Javascript Technologies](https://medium.com/popular-javascript-technologies-66b21fec4331)
 
 ## ☁️ Cloud Computing
 
@@ -159,6 +130,7 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [Clean Architecture in Software Development](https://medium.com/clean-architecture-in-software-development-fbb623ef742f)
 - [Circuit Breakers in System Design](https://medium.com/circuit-breakers-in-system-design-2f211d2a8b5e)
 - [How to learn about Scalability?](https://medium.com/how-to-learn-about-scalability-7a2d37253ad8)
+- [12 Kafka Features & Configurations Every Developer Should Know](https://medium.com/@minimaldevops/12-kafka-features-configurations-every-developer-should-know-83f2d82e57ea)
 
 ### API Design & Communication
 - [API Keys Vs Token](https://medium.com/api-keys-vs-token-339f21491eea)
