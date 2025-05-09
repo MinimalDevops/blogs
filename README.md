@@ -106,6 +106,7 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [Container Image Size Reducing](https://medium.com/container-image-size-reducing-75822c531e61)
 - [Understanding Data Structures: A Practical Basic Guide](https://medium.com/understanding-data-structures-a-practical-basic-guide-for-non-developers-9771e3f4f62d)
 - [Sustainable Coding](https://medium.com/sustainable-coding-df2909715f1b)
+- [From Containers to WASM: A Practical Guide to the Future of Lightweight Apps](https://medium.com/@minimaldevops/from-containers-to-wasm-a-practical-guide-to-the-future-of-lightweight-apps-c3c6356e2a6f)
 
 ## ☁️ Cloud Computing
 
@@ -114,6 +115,7 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [Leveraging Execution Environment Reuse to Optimize AWS Lambda Performance](https://medium.com/leveraging-execution-environment-reuse-to-optimize-aws-lambda-performance-dd5335dfc70e)
 - [Automating API Gateway Key Rotation with AWS Lambda and Secrets Manager](https://medium.com/automating-api-gateway-key-rotation-with-aws-lambda-and-secrets-manager-07d9686bd3d8)
 - [Differences Between Global Accelerator and CloudFront in AWS](https://medium.com/differences-between-global-accelerator-and-cloudfront-in-aws-b6a4d76cb6ff)
+- [Cross-Cloud Access to Private Object Storage: AWS, Azure, and GCP Interoperability](https://medium.com/@minimaldevops/cross-cloud-access-to-private-object-storage-aws-azure-and-gcp-interoperability-8b54fdf715f6)
 
 ### Cloud General
 - [A Quick Guide to Optimize Costs in a Cloud Environment](https://medium.com/a-quick-guide-to-optimize-costs-in-a-cloud-environment-c95499bbaaee)
@@ -131,6 +133,8 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [Circuit Breakers in System Design](https://medium.com/circuit-breakers-in-system-design-2f211d2a8b5e)
 - [How to learn about Scalability?](https://medium.com/how-to-learn-about-scalability-7a2d37253ad8)
 - [12 Kafka Features & Configurations Every Developer Should Know](https://medium.com/@minimaldevops/12-kafka-features-configurations-every-developer-should-know-83f2d82e57ea)
+- [How We Migrated from Kafka to Pulsar on Kubernetes — and How You Can Too](https://medium.com/@minimaldevops/how-we-migrated-from-kafka-to-pulsar-on-kubernetes-and-how-you-can-too-024f1c086be5)
+- [Serverless on Kubernetes: Knative Functions on AWS EKS](https://medium.com/@minimaldevops/serverless-on-kubernetes-knative-functions-on-aws-eks-fed8ed859654)
 
 ### API Design & Communication
 - [API Keys Vs Token](https://medium.com/api-keys-vs-token-339f21491eea)
