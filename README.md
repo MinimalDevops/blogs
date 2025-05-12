@@ -16,7 +16,7 @@
 [📖 About](#-about) • [🤖 AI/ML & Data Science](#-aiml--data-science) • [☁️ Cloud & DevOps](#️-cloud-computing--devops) • [🏗️ Architecture](#️-software-architecture--design) • [💻 Development](#-development--tools)
 
 [![Blog Categories](https://img.shields.io/badge/Categories-10+-blue)](https://github.com/tapinder/MinimalDevOps-Blog-Collection#-table-of-contents)
-[![Total Articles](https://img.shields.io/badge/Articles-90+-green)](https://github.com/tapinder/MinimalDevOps-Blog-Collection#-table-of-contents)
+[![Total Articles](https://img.shields.io/badge/Articles-100+-green)](https://github.com/tapinder/MinimalDevOps-Blog-Collection#-table-of-contents)
 [![Topics](https://img.shields.io/badge/Topics-Diverse-orange)](https://github.com/tapinder/MinimalDevOps-Blog-Collection#-table-of-contents)
 
 </div>
@@ -67,6 +67,7 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [App of Apps Pattern in ArgoCD](https://medium.com/app-of-apps-pattern-in-argocd-5c5c9ddd4fda)
 - [CRDs in Kubernetes](https://medium.com/crds-in-kubernetes-c38037315548)
 - [Admission Controllers in Kubernetes](https://medium.com/admission-controllers-in-kubernetes-77269b0f81d0)
+- [Kubernetes Governance with OPA Gatekeeper](https://medium.com/@minimaldevops/kubernetes-governance-with-opa-gatekeeper-8841e09b242f)
 
 ## 🔄 CI/CD & DevOps
 
