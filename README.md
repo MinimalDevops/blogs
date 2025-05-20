@@ -150,6 +150,7 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [Mastering Big O Notation](https://medium.com/mastering-big-o-notation-9e96c794ffcc)
 - [Understanding Data Structures: A Practical Basic Guide](https://medium.com/understanding-data-structures-a-practical-basic-guide-for-non-developers-9771e3f4f62d)
 - [Sustainable Coding](https://medium.com/sustainable-coding-df2909715f1b)
+- [Why JJ Might Be the Git Successor](https://medium.com/@minimaldevops/why-jj-might-be-the-git-successor-bbc0f09d50d5)
 
 ### Container & Tools
 - [Container Image Size Reducing](https://medium.com/container-image-size-reducing-75822c531e61)
@@ -165,6 +166,7 @@ Welcome to my collection of technical articles covering various aspects of softw
 ### Monitoring
 - [RUM vs Synthetic Monitoring: Which One Do You Need?](https://medium.com/rum-vs-synthetic-monitoring-which-one-do-you-need-3afd54be308b)
 - [Integrating Prometheus directly into the workflow](https://medium.com/integrating-prometheus-directly-into-the-workflow-is-a-great-idea-b125bd83cece)
+- [The eBPF Hype: Are You Already Using It Without Knowing?](https://medium.com/@minimaldevops/the-ebpf-hype-are-you-already-using-it-without-knowing-7d0a2b13106d)
 
 ## 📊 Data Engineering & Databases
 
