@@ -136,6 +136,8 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [12 Kafka Features & Configurations Every Developer Should Know](https://medium.com/@minimaldevops/12-kafka-features-configurations-every-developer-should-know-83f2d82e57ea)
 - [How We Migrated from Kafka to Pulsar on Kubernetes — and How You Can Too](https://medium.com/@minimaldevops/how-we-migrated-from-kafka-to-pulsar-on-kubernetes-and-how-you-can-too-024f1c086be5)
 - [Serverless on Kubernetes: Knative Functions on AWS EKS](https://medium.com/@minimaldevops/serverless-on-kubernetes-knative-functions-on-aws-eks-fed8ed859654)
+- [What is “CQRS” for DevOps, Cloud Architects, Cloud Engineers, and System Engineers](https://medium.com/@minimaldevops/what-is-cqrs-for-devops-cloud-architects-cloud-engineers-and-system-engineers-f37393f3e6b9)
+- [Why Event-Driven Architecture Matters for DevOps, Cloud Architects, Cloud Engineers, SREs, and System Engineers](https://medium.com/@minimaldevops/why-event-driven-architecture-matters-for-devops-cloud-architects-cloud-engineers-sres-and-34e59bbdc3d6)
 
 ### API Design & Communication
 - [API Keys Vs Token](https://medium.com/api-keys-vs-token-339f21491eea)
