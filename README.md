@@ -13,7 +13,7 @@
 
 ### A COMPREHENSIVE COLLECTION OF TECHNICAL ARTICLES AND GUIDES
 
-[📖 About](#-about) • [🤖 AI/ML & Data Science](#-aiml--data-science) • [☁️ Cloud & DevOps](#️-cloud-computing--devops) • [🏗️ Architecture](#️-software-architecture--design) • [💻 Development](#-development--tools)
+[📖 About](#-about) • [🤖 AI/ML & Data Science](#-aiml--data-science) • [☁️ Cloud & DevOps](#️-cloud-computing) • [🏗️ Architecture](#️-software-architecture--design) • [💻 Development](#-development--tools)
 
 [![Blog Categories](https://img.shields.io/badge/Categories-10+-blue)](https://github.com/tapinder/MinimalDevOps-Blog-Collection#-table-of-contents)
 [![Total Articles](https://img.shields.io/badge/Articles-100+-green)](https://github.com/tapinder/MinimalDevOps-Blog-Collection#-table-of-contents)
@@ -210,6 +210,14 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [Author's LinkedIn](https://www.linkedin.com/in/tapinder-singh/)
 - [Website](https://minimaldevops.com/)
 - [Medium Profile](https://medium.com/@minimaldevops)
+
+## ✅ Running Tests
+
+To run the tests use:
+
+```bash
+pytest
+```
 
 ## 📝 License
 
