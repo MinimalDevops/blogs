@@ -74,17 +74,17 @@ Welcome to my collection of technical articles covering various aspects of softw
 ## 🔄 CI/CD & DevOps
 
 ### CI/CD Tools
-- [Episode 3: Github Actions](https://medium.com/episode-3-github-actions-abaa0b79ebc4)
 - [Episode 1: Jenkins Pipeline](https://medium.com/episode-1-jenkins-pipeline-98147713f2e5)
-- [Episode 6: Travis CI](https://medium.com/episode-6-travis-ci-318094850dab)
 - [Episode 2: Gitlab Pipeline](https://medium.com/episode-2-gitlab-pipeline-00880310f575)
-- [Episode 5: AWS Codepipeline](https://medium.com/episode-5-aws-codepipeline-e6f8d1267c4c)
-- [Episode 9: Bamboo Pipeline](https://medium.com/episode-9-bamboo-pipeline-c523578a71fa)
-- [Episode 8: Harness Pipeline](https://medium.com/episode-8-harness-pipeline-db31417a220b)
+- [Episode 3: Github Actions](https://medium.com/episode-3-github-actions-abaa0b79ebc4)
 - [Episode 4: Argo Workflows](https://medium.com/episode-4-argo-workflows-8e37c761bd47)
+- [Episode 5: AWS Codepipeline](https://medium.com/episode-5-aws-codepipeline-e6f8d1267c4c)
+- [Episode 6: Travis CI](https://medium.com/episode-6-travis-ci-318094850dab)
 - [Episode 7: Circle CI](https://medium.com/episode-7-circle-ci-33ac596248ff)
-- [Episode 11: Google Cloud Build](https://medium.com/episode-11-google-cloud-build-8f71041d29de)
+- [Episode 8: Harness Pipeline](https://medium.com/episode-8-harness-pipeline-db31417a220b)
+- [Episode 9: Bamboo Pipeline](https://medium.com/episode-9-bamboo-pipeline-c523578a71fa)
 - [Episode 10: Azure Pipeline](https://medium.com/episode-10-azure-pipeline-a6c7eaf45236)
+- [Episode 11: Google Cloud Build](https://medium.com/episode-11-google-cloud-build-8f71041d29de)
 
 ### DevOps Practices
 - [CICD tools and their pipelines episodes series](https://medium.com/cicd-tools-and-their-pipelines-episodes-series-5ff0b1862987)
