@@ -48,6 +48,7 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [Retrieval-Augmented Generation (RAG)](https://medium.com/retrieval-augmented-generation-rag-225c3313e5e4)
 - [Simple explanations of Machine Learning Algorithms](https://medium.com/simple-explanations-of-machine-learning-algorithms-7b591ce414bb)
 - [How to Build Your Own OCR Assistant with Streamlit and Llava Phi](https://medium.com/how-to-build-your-own-ocr-assistant-with-streamlit-and-llava-phi-450df3966bb3)
+- [Chrome extensions with local LLMs: Build your own YouTube transcript summarizer](https://medium.com/@minimaldevops/chrome-extensions-with-local-llms-build-your-own-youtube-transcript-summarizer-ba40141becd9)
 
 ### Data Science Tools
 - [NumPy, SciPy, Pandas, and Matplotlib Libraries in Python](https://medium.com/numpy-scipy-pandas-and-matplotlib-libraries-in-python-caac7e9703c8)
@@ -68,6 +69,7 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [CRDs in Kubernetes](https://medium.com/crds-in-kubernetes-c38037315548)
 - [Admission Controllers in Kubernetes](https://medium.com/admission-controllers-in-kubernetes-77269b0f81d0)
 - [Kubernetes Governance with OPA Gatekeeper](https://medium.com/@minimaldevops/kubernetes-governance-with-opa-gatekeeper-8841e09b242f)
+- [Mastering mTLS in Kubernetes](https://medium.com/@minimaldevops/mastering-mtls-in-kubernetes-25a762b58d90)
 
 ## 🔄 CI/CD & DevOps
 
@@ -122,6 +124,7 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [A Quick Guide to Optimize Costs in a Cloud Environment](https://medium.com/a-quick-guide-to-optimize-costs-in-a-cloud-environment-c95499bbaaee)
 - [Cloud Governance, Security, and Compliance](https://medium.com/cloud-governance-security-and-compliance-992afee07e7b)
 - [Implementing gRPC in AWS: Leveraging CDN, Load Balancers, and API Gateway](https://medium.com/implementing-grpc-in-aws-leveraging-cdn-load-balancers-and-api-gateway-best-practices-and-24ab6acdde16)
+- [BGP: What Every DevOps, Cloud, and XYZ Engineer Should Know](https://medium.com/@minimaldevops/bgp-what-every-devops-cloud-and-xyz-engineer-should-know-198caf462228)
 
 ## 🏗️ Software Architecture & Design
 
@@ -159,6 +162,8 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [Image building with Kaniko Vs Docker](https://medium.com/image-building-with-kaniko-vs-docker-bb4f03c8b38a)
 - [Buildah Vs Docker](https://medium.com/buildah-and-docker-are-both-tools-for-building-container-images-but-they-have-some-key-differences-a3530b923be0)
 - [How to recover space from docker cache?](https://medium.com/how-to-recover-space-from-docker-cache-2cb706af893c)
+- [Running Docker in read-only mode: security boost or operational risk?](https://medium.com/@minimaldevops/running-docker-in-read-only-mode-security-boost-or-operational-risk-ebeebfd4083c)
+- [Why Developers Are Switching to Colima, the Lightweight Docker Desktop Alternative on macOS](https://minimaldevops.com/why-developers-are-switching-to-colima-the-lightweight-docker-desktop-alternative-on-macos-be07a08ca915)
 
 ### Documentation & Tools
 - [MD-flashcard: Turning Markdown Notes into Recall-Ready Flashcards](https://medium.com/md-flashcard-turning-markdown-notes-into-recall-ready-flashcards-9ad695a51e43)
@@ -169,6 +174,7 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [RUM vs Synthetic Monitoring: Which One Do You Need?](https://medium.com/rum-vs-synthetic-monitoring-which-one-do-you-need-3afd54be308b)
 - [Integrating Prometheus directly into the workflow](https://medium.com/integrating-prometheus-directly-into-the-workflow-is-a-great-idea-b125bd83cece)
 - [The eBPF Hype: Are You Already Using It Without Knowing?](https://medium.com/@minimaldevops/the-ebpf-hype-are-you-already-using-it-without-knowing-7d0a2b13106d)
+- [How to track GitHub repo traffic beyond 14 days](https://medium.com/@minimaldevops/how-to-track-github-repo-traffic-beyond-14-days-73d16c85129e)
 
 ## 📊 Data Engineering & Databases
 
@@ -203,6 +209,7 @@ Welcome to my collection of technical articles covering various aspects of softw
 ## 📝 Medium
 
 - [Know your total views and reads on Medium](https://medium.com/know-your-total-views-and-reads-on-medium-ee723d985480)
+- [How to automatically track your Medium stats for your portfolio — no API needed](https://medium.com/@minimaldevops/how-to-automatically-track-your-medium-stats-for-your-portfolio-no-api-needed-0cae10ed8796)
 
 ---
 ## 📫 Connect With Me
