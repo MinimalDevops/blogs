@@ -22,7 +22,7 @@ func main() {
 		WithMountedDirectory("/src", src).
 		WithWorkdir("/src").
 		WithExec([]string{"python", "-m", "pip", "install", "pytest"}).
-		WithExec([]string{"pytest", "-q"})
+		WithExec([]string{"pytest", "--import-mode=importlib", "-q"})
 
 	if _, err = tests.Stdout(ctx); err != nil {
 		panic(err)
