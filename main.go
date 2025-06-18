@@ -8,21 +8,23 @@ import (
 func main() {
 	ctx := context.Background()
 	client, err := dagger.Connect(ctx)
+	if err != nil {
+		panic(err)
+	}
 	defer client.Close()
 
 	src := client.Host().Directory(".", dagger.HostDirectoryOpts{
 		Exclude: []string{"node_modules"},
 	})
 
-	ctr := client.Container().
-		From("node:18").
+	tests := client.Container().
+		From("python:3.11").
 		WithMountedDirectory("/src", src).
 		WithWorkdir("/src").
-		WithExec([]string{"npm", "ci"}).
-		WithExec([]string{"npx", "eslint", "."})
+		WithExec([]string{"python", "-m", "pip", "install", "pytest"}).
+		WithExec([]string{"pytest", "-q"})
 
-	_, err = ctr.Stdout(ctx)
-	if err != nil {
+	if _, err = tests.Stdout(ctx); err != nil {
 		panic(err)
 	}
 }
