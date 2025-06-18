@@ -17,5 +17,9 @@ jobs:
         with:
           go-version: '1.22'
 
+      - name: Install Dagger
+        run: curl -L https://dl.dagger.io/dagger/install.sh | DAGGER_VERSION=v0.18.10 BIN_DIR=/usr/local/bin sh
+
+
       - name: Run tests with Dagger
         run: go run main.go
