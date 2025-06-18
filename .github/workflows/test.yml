@@ -1,4 +1,4 @@
-name: Lint with Dagger (self-hosted)
+name: Tests with Dagger (self-hosted)
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
   pull_request:
 
 jobs:
-  dagger-lint:
+  dagger-ci:
     runs-on: self-hosted
 
     steps:
@@ -17,10 +17,5 @@ jobs:
         with:
           go-version: '1.22'
 
-      - name: Install Dagger CLI
-        run: |
-          brew install dagger/tap/dagger
-          dagger engine install
-
-      - name: Run lint with Dagger
+      - name: Run tests with Dagger
         run: go run main.go
