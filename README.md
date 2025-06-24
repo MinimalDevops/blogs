@@ -95,6 +95,8 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [Tools Version Management with TENV](https://medium.com/tools-version-management-with-tenv-3ec60bc412b0)
 - [Phases in ArgoCD](https://medium.com/phases-in-argocd-9399722edc3d)
 - [Canary Deployments for Kong Enterprise on EKS Using Jenkins CI/CD](https://medium.com/@minimaldevops/canary-deployments-for-kong-enterprise-on-eks-using-jenkins-ci-cd-bd605c0370ec)
+- [CI anywhere with Dagger: Run the same pipeline locally and in GitHub Actions](https://medium.com/@minimaldevops/ci-anywhere-with-dagger-run-the-same-pipeline-locally-and-in-github-actions-29edbc163ca3)
+- [Level up your Dagger pipeline: Test branches, tags and pull requests with ease](https://medium.com/@minimaldevops/level-up-your-dagger-pipeline-test-branches-tags-and-pull-requests-with-ease-977c1c9a3a46)
 
 ## 🐍 Python Programming
 
