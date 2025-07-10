@@ -70,6 +70,8 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [Admission Controllers in Kubernetes](https://medium.com/admission-controllers-in-kubernetes-77269b0f81d0)
 - [Kubernetes Governance with OPA Gatekeeper](https://medium.com/@minimaldevops/kubernetes-governance-with-opa-gatekeeper-8841e09b242f)
 - [Mastering mTLS in Kubernetes](https://medium.com/@minimaldevops/mastering-mtls-in-kubernetes-25a762b58d90)
+- [Enable Developer Velocity with Gateway API in Kubernetes: Secure, Scalable Self-Service Routing](https://medium.com/@minimaldevops/enable-developer-velocity-with-gateway-api-in-kubernetes-secure-scalable-self-service-routing-ee432fb9c76e)
+- [Sealed Secrets vs SOPS: Which Should You Use to Manage Kubernetes Secrets in GitOps?](https://medium.com/@minimaldevops/sealed-secrets-vs-sops-which-should-you-use-to-manage-kubernetes-secrets-in-gitops-cc20a2f52cb3)
 
 ## 🔄 CI/CD & DevOps
 
@@ -97,6 +99,7 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [Canary Deployments for Kong Enterprise on EKS Using Jenkins CI/CD](https://medium.com/@minimaldevops/canary-deployments-for-kong-enterprise-on-eks-using-jenkins-ci-cd-bd605c0370ec)
 - [CI anywhere with Dagger: Run the same pipeline locally and in GitHub Actions](https://medium.com/@minimaldevops/ci-anywhere-with-dagger-run-the-same-pipeline-locally-and-in-github-actions-29edbc163ca3)
 - [Level up your Dagger pipeline: Test branches, tags and pull requests with ease](https://medium.com/@minimaldevops/level-up-your-dagger-pipeline-test-branches-tags-and-pull-requests-with-ease-977c1c9a3a46)
+- [DevOps Starts at Home: Kickstart Your Automation Journey with Personal Workflows](https://medium.com/@minimaldevops/devops-starts-at-home-kickstart-your-automation-journey-with-personal-workflows-c21ad176f37f)
 
 ## 🐍 Python Programming
 
@@ -166,6 +169,7 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [How to recover space from docker cache?](https://medium.com/how-to-recover-space-from-docker-cache-2cb706af893c)
 - [Running Docker in read-only mode: security boost or operational risk?](https://medium.com/@minimaldevops/running-docker-in-read-only-mode-security-boost-or-operational-risk-ebeebfd4083c)
 - [Why Developers Are Switching to Colima, the Lightweight Docker Desktop Alternative on macOS](https://minimaldevops.com/why-developers-are-switching-to-colima-the-lightweight-docker-desktop-alternative-on-macos-be07a08ca915)
+- [What Powers Colima, Rancher Desktop, and Finch? A Deep Dive into Lima and QEMU](https://medium.com/@minimaldevops/what-powers-colima-rancher-desktop-and-finch-a-deep-dive-into-lima-and-qemu-f8d2f2387eb5)
 
 ### Documentation & Tools
 - [MD-flashcard: Turning Markdown Notes into Recall-Ready Flashcards](https://medium.com/md-flashcard-turning-markdown-notes-into-recall-ready-flashcards-9ad695a51e43)
