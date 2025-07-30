@@ -219,6 +219,7 @@ Welcome to my collection of technical articles covering various aspects of softw
 
 - [Know your total views and reads on Medium](https://medium.com/know-your-total-views-and-reads-on-medium-ee723d985480) ([Friendly URL](https://minimaldevops.com/know-your-total-views-and-reads-on-medium-ee723d985480?source=friends_link&sk=676a3aa5e019e24d7dff4386d0f1e4a3))
 - [How to automatically track your Medium stats for your portfolio — no API needed](https://medium.com/@minimaldevops/how-to-automatically-track-your-medium-stats-for-your-portfolio-no-api-needed-0cae10ed8796) ([Friendly URL](https://minimaldevops.com/how-to-automatically-track-your-medium-stats-for-your-portfolio-no-api-needed-0cae10ed8796?source=friends_link&sk=13c855ae321b0dd652fc70496463652a))
+- [How I embedded my Medium stats into my GitHub README without using an API](https://medium.com/how-i-embedded-my-medium-stats-into-my-github-readme-without-using-an-api-3a14ab620b87) ([Friendly URL](https://minimaldevops.com/how-i-embedded-my-medium-stats-into-my-github-readme-without-using-an-api-3a14ab620b87?source=friends_link&sk=f839d6c7d1397343b4720dff4acfb68f))
 
 ---
 ## 📫 Connect With Me
