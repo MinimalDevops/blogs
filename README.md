@@ -72,6 +72,7 @@ Welcome to my collection of technical articles covering various aspects of softw
 - [Mastering mTLS in Kubernetes](https://medium.com/@minimaldevops/mastering-mtls-in-kubernetes-25a762b58d90) ([Friendly URL](https://minimaldevops.com/mastering-mtls-in-kubernetes-25a762b58d90?source=friends_link&sk=427ed7b46efa31d7bc08c94a7c2fa3ee))
 - [Enable Developer Velocity with Gateway API in Kubernetes: Secure, Scalable Self-Service Routing](https://medium.com/@minimaldevops/enable-developer-velocity-with-gateway-api-in-kubernetes-secure-scalable-self-service-routing-ee432fb9c76e) ([Friendly URL](https://minimaldevops.com/enable-developer-velocity-with-gateway-api-in-kubernetes-secure-scalable-self-service-routing-ee432fb9c76e?source=friends_link&sk=56ad5554975ccb09c7fe45323bff4823))
 - [Sealed Secrets vs SOPS: Which Should You Use to Manage Kubernetes Secrets in GitOps?](https://medium.com/@minimaldevops/sealed-secrets-vs-sops-which-should-you-use-to-manage-kubernetes-secrets-in-gitops-cc20a2f52cb3) ([Friendly URL](https://minimaldevops.com/sealed-secrets-vs-sops-which-should-you-use-to-manage-kubernetes-secrets-in-gitops-cc20a2f52cb3?source=friends_link&sk=a5caa8318d503bcdfec0c8f2390470fe))
+- [Nushell Kubernetes: the smarter way to work with kubectl output](https://minimaldevops.com/nushell-kubernetes-the-smarter-way-to-work-with-kubectl-output-8c6e387cf5db) ([Friendly URL](https://minimaldevops.com/nushell-kubernetes-the-smarter-way-to-work-with-kubectl-output-8c6e387cf5db?source=friends_link&sk=d38516cd1987f35246b6a978fdb3ef3f))
 
 ## 🔄 CI/CD & DevOps
 
